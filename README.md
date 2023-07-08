@@ -13,7 +13,8 @@
 
 
 ### **Languages and tools**
-<code><img height="20" width=20 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></code>
 
 
 ### **Skills**
