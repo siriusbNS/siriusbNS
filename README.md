@@ -30,3 +30,9 @@
 
 
 ### **Skills**
+---
+  + OOP, MVC, REST API, Patterns
+  + Docker, docker-compose
+  + Git
+  + Algorithms & Data structures
+  + Storages: PostrgreSQL, MySQL
