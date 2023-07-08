@@ -3,6 +3,7 @@
 <h3 align="center">ITMO University SE student, backend developer</h3>
 <br /> 
 
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 [![LeetCode user VladKUvsh](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FVladKUvsh&logo=leetcode&logoColor=yellow)](https://leetcode.com/VladKUvsh/)
 
 ### **📈Github stats**  
