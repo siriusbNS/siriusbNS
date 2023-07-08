@@ -1,5 +1,5 @@
-
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Hi there</h1>
+<h1 align="center">Hi there, I'm Ignat<a </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ITMO University SE student, backend developer</h3>
 <br /> 
 
