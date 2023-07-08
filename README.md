@@ -24,15 +24,10 @@
 <code><img height="20" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"></code>
 
 
-
-
-
-
-
 ### **Skills**
 ---
   + OOP, MVC, REST API, Patterns
-  + Docker, docker-compose
+  + Docker
   + Git
   + Algorithms & Data structures
   + Storages: PostrgreSQL, MySQL
